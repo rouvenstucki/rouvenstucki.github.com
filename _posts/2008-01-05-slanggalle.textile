@@ -23,8 +23,3 @@ categories:
  !../images/slanggalle/slanggalle2.jpg!
  !../images/slanggalle/slanggalle_1_illustration.jpg!
  !../images/slanggalle/slanggalle1.jpg!
- !../images/slanggalle4/slanggalle_detail_1.jpg!
- !../images/slanggalle4/slanggalle_detail_2.jpg!
- !../images/slanggalle4/slanggalle_cases.jpg!
- !../images/slanggalle4/slanggalle4_layout_web2.jpg!
- !../images/slanggalle4/slanggalle4_web2.jpg!
