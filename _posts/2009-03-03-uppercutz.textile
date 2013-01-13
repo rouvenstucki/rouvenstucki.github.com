@@ -1,0 +1,17 @@
+---
+layout: post
+title: Uppercutz
+subtitle: flyers and posters for Rap and HipHop Party serie
+location: Restaurant kastanienhof, Kreuzbleicheweg 2, 9000 St. Gallen
+categories:
+- illustration
+- flyer
+- type
+---
+
+ !../images/uppercutz/uppercutz-type.jpg!
+ !../images/uppercutz/uppercutz_plakat.jpg!
+ !../images/uppercutz/uppercutz_flyer.jpg!
+ !../images/uppercutz/uppercutz6.3.09_plakat.jpg!
+ !../images/uppercutz/uppercutz_grill_plakat.jpg!
+

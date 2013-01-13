@@ -1,0 +1,12 @@
+---
+layout: post
+title: Coiffure Beryl
+subtitle: Identity for Mirella Tyas
+location: kugelgasse 8 st.gallen
+categories:
+- illustration
+- print
+---
+
+ !../images/coiffureberyl/coiffure_beryl_visit.jpg!
+ !../images/coiffureberyl/coiffure_beryl_3.jpg!

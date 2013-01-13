@@ -1,0 +1,22 @@
+---
+layout: post
+title: incks alonuis
+subtitle: New Identity for Incks Alonius
+client: Incks Alonius 
+location: brooklyn new york 
+categories:
+- logo
+- type
+- music
+- identity
+---
+
+!../images/incks/pimpstress_site_72dpi.jpg!
+
+<embed src="/images/incks/pimpstress.swf" width="700" height="700" />
+
+"Incks on Twitter":http://twitter.com/incksalonius
+"Incks on myspace":http://www.myspace.com/incks
+
+<div style="padding-top:200px"><embed style='display:inline;' quality='high' wmode='transparent' id='FlashDiv' FlashVars='songId=27610655&pid=-9163224543036333181' AllowScriptAccess='always' src='http://www.myspace.com/music/song-embed?songid=27610655&getSwf=true' width='400' height='77'/><p>Finde weitere Künstler wie <a target='_blank' href='/incks/music/albums/7936188?ap=1&songid=27610655'>Incks(alonius)</a> bei <a target='_blank' href='http://www.myspace.com/music'>Myspace Musik</a></p></div>
+

@@ -1,0 +1,30 @@
+<nav>
+
+<ul>
+<li class="label">Work</li>
+{% for post in site.posts %}
+<li>
+<a {% if post.title ==  page.title %} href="/" title="{{ post.date | date: "%m/%y" }}" class="selected" {% else %}href="{{ post.url }}/" title="{{ post.date | date: "%m/%y" }} {{ post.title }}" {% endif %}{% for p in site.categories[page.category] %}{% if p.title ==  post.title %} class="related" {% endif %}{% endfor %}>{{ post.title }}&#8599;</a></li>
+{% endfor %}
+</ul>
+<!--
+<ul><li class="label">Tags</li>
+{% for category in site.categories %}
+<li>
+<a {% for cat in page.categories %}{% if cat ==  category[0] %} class="related" {% endif %}{% endfor %}{% if category[0] == page.title %} class="selected" href="/" {% else %}href="/{{ category | first }}/"{% endif %} title="{{ category | first }}">{{ category | first }}&#8599;</a>
+</li>
+{% endfor %}
+-->
+<!--
+<li><a href="/print" title="Print">print</a></li>
+<li><a href="/illustration" title="Illustration">illustration</a></li>
+<li><a href="/web" title="Graffiti">graffiti</a></li>
+<li><a href="/portrait" title="Portrait">portrait</a></li>
+<li><a href="/silkscreen" title="Silkscreen">silkscreen</a></li>
+<li><a href="/flyer" title="Flyer">flyer</a></li>
+</ul>
+-->
+<ul>
+<li><a {% if page.title == 'About' %} class="label selected" {%  else if %} class="label" {% endif %} href="/about/" title="INFO">INFO</a></li>
+</ul>  
+</nav>

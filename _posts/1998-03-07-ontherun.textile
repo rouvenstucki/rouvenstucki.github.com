@@ -1,0 +1,19 @@
+---
+layout: post
+title: On the run
+client: Seven holy rules
+categories:
+- graffiti
+- illustration
+---
+
+ !../images/ontherun/styles_8.jpg!
+ !../images/ontherun/styles_7.jpg!
+ !../images/ontherun/mashtechnics_1.jpg!
+ !../images/ontherun/mashtechnics_3.jpg!
+ !../images/ontherun/mashtechnics_2.jpg!
+ !../images/ontherun/styles_1.jpg!
+ !../images/ontherun/styles_2.jpg!
+ !../images/ontherun/styles_4.jpg!
+ !../images/ontherun/styles_5.jpg!
+ !../images/ontherun/styles_6.jpg!

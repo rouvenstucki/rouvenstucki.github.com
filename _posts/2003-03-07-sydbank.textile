@@ -1,0 +1,17 @@
+---
+layout: post
+title: Sydbank
+subtitle: Graffiti Project with Lennyjpg
+location: bahnhofstrasse st.gallen
+client: Sydbank private banking international
+categories:
+- graffiti
+- illustration
+---
+
+ !../images/sydbank/395670330_cc4b8cbb73_b.jpg!
+ !../images/sydbank/395678548_a23bed33b0_o.jpg!
+ !../images/sydbank/sydbank.jpg!
+ !../images/sydbank/395669537_6e261b6852_o.jpg!
+ !../images/sydbank/395668869_16f4f52e90_o.jpg!
+ !../images/sydbank/395671557_1d23041e22_o.jpg!

@@ -1,0 +1,30 @@
+---
+layout: post
+title: F.e.t.i.s.h.
+subtitle: Work for Grand-studio
+client: Fetish-consulting
+location: hardbrücke zürich
+categories:
+- illustration
+- layout
+- print
+- t-shirt
+- type
+---
+
+Printdesigns for Streetwear- and Snowboardwear.
+Brands: Nabholz, Mammut, The North Face, Reef, Athleticum, Manor
+
+ !../images/fetish/eastpack_print_placed_2.jpg!
+ !../images/fetish/eastpack_print_placed_1.jpg!
+ !../images/fetish/eastpack_print_placed_3.jpg!
+ !../images/fetish/eastpack_print_placed_4.jpg!
+ !../images/fetish/eastpack_birds_and_shades.jpg!
+ !../images/fetish/eastpack_tapespur_combo.jpg!
+ !../images/fetish/rush_boys_timm_allover.jpg!
+ !../images/fetish/OVERVIEW_rush_boys.jpg!
+ !../images/fetish/rush_boys_blackstripe_allover.jpg!
+ !../images/fetish/tnf_AJMM_M_Logo_Tee_ARTWORK.jpg!
+ !../images/fetish/tnf_ARSENAL_LS_TEE.jpg!
+ !../images/fetish/tnf_DARK_CLIMBER_LS_TEE.jpg!
+ !../images/fetish/tnf_WOOD_BY_NIGHT_LS_TEE.jpg!

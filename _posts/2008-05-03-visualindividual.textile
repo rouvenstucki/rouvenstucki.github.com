@@ -1,0 +1,13 @@
+---
+layout: post
+title: Visual Individual
+Subtitle:
+categories:
+- illustration
+---
+
+ !../images/visualindividual/zitronenbaeckchen.jpg!
+ !../images/visualindividual/zitronenbaeckchen_pic.jpg!
+ !../images/visualindividual/lady_on_plexi.jpg!
+ !../images/visualindividual/pinup_on_wood_2.jpg!
+ !../images/visualindividual/smokelady_pic.jpg!

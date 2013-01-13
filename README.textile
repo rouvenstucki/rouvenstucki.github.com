@@ -1,0 +1,6 @@
+"www.rouvenstucki.ch":http://www.rouvenstucki.ch
+
+* "Jekyll":https://github.com/mojombo/jekyll
+* "HTML5 Boilerplate":http://html5boilerplate.com/
+* "Compass":http://compass-style.org
+

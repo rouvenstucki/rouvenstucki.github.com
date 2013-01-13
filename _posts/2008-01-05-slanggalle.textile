@@ -1,0 +1,30 @@
+---
+layout: post
+title: Slanggalle
+subtitle: Identity for a Project by Dj E.S.I.K 
+client: rap-sg
+lat: -25.763882
+lon: 131.445922
+categories:
+- illustration
+- music
+- layout
+---
+
+ !../images/slanggalle/slanggale3_illustration.jpg!
+ !../images/slanggalle/slanggalle3.jpg!
+ !../images/slanggalle/slanggalle4_web2.jpg!
+ !../images/slanggalle/slanggalle4_web.jpg!
+ !../images/slanggalle/slanggalle_cases.jpg!
+ !../images/slanggalle/slanggalle_detail_1.jpg!
+ !../images/slanggalle/slanggalle_detail_2.jpg!
+ !../images/slanggalle/slanggalle4_layout_web2.jpg!
+ !../images/slanggalle/slanggallen2_illustration.jpg!
+ !../images/slanggalle/slanggalle2.jpg!
+ !../images/slanggalle/slanggalle_1_illustration.jpg!
+ !../images/slanggalle/slanggalle1.jpg!
+ !../images/slanggalle4/slanggalle_detail_1.jpg!
+ !../images/slanggalle4/slanggalle_detail_2.jpg!
+ !../images/slanggalle4/slanggalle_cases.jpg!
+ !../images/slanggalle4/slanggalle4_layout_web2.jpg!
+ !../images/slanggalle4/slanggalle4_web2.jpg!

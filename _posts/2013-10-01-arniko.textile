@@ -1,0 +1,20 @@
+---
+layout: post
+title: arniko
+subtitle: Type Design for handcutting boards
+client: 'arnikoskateboards.com'
+location: Nepal
+categories:
+- illustration
+- portrait
+- music
+---
+
+It goes without saying that Arniko respects the natural beauty of the country and the dignity of its people in every step of its production. Arniko Skateboards also provides employment in the Kathmandu Valley and ensures that the traditional woodcarving art lives on.
+
+All products are made in a socially and ecologically sustainable manner.
+
+ !../images/arniko/arnikoBoard_1.jpg!
+ !../images/arniko/arnikoBoard_2.jpg!
+ !../images/arniko/arnikoBoard_3.jpg!
+ !../images/arniko/cristal_boards_4.jpg!

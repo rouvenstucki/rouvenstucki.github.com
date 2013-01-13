@@ -1,0 +1,14 @@
+title: Rouven Stucki
+description: Illustrator + Graphic Designer
+location: St.Gallen, Switzerland
+author: Rouven Stucki
+email: info@rouvenstucki.ch
+url: http://www.rouvenstucki.ch
+analytics_id: UA-8816997-1
+permalink: /:title
+category_dir: /
+exclude:
+  /src
+  /screenshots
+  config.rb
+  README.textile

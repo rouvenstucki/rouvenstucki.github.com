@@ -1,0 +1,14 @@
+---
+layout: post
+title: Rest. La Scala
+subtitle: Graffiti Project with lennyjpg
+location: neumarkt st.gallen
+client: Restaurant Kolosseum St.Gallen
+categories:
+- graffiti
+- illustration
+---
+
+ !../images/lascala/laScala_1.jpg!
+ !../images/lascala/laScala_3.jpg!
+ !../images/lascala/laScala_2.jpg!

@@ -1,0 +1,27 @@
+---
+layout: post
+title: Kugl
+subtitle: Illustration for Kugl Line up Program
+location: 47.418777,9.364653
+categories:
+- illustration
+- music
+---
+
+Monatliche Illustration für das Kugl St.Gallen
+               
+ !../images/kugl/2010_foto2.jpg!
+ !../images/kugl/2010_foto3.jpg!
+ !../images/kugl/2010_foto4.jpg!
+
+ !../images/kugl/happynewyear_web.jpg!
+ !../images/kugl/kugl_april.jpg!
+
+Format geschlossen: Din A6
+Format geöffnet: Din A3
+Druck: offset 2-farbig, Schwalben Verlag
+
+ !../images/kugl/kugl_august_sketch1_web.jpg!
+ !../images/kugl/kugl_aug.sept_2.jpg!
+ !../images/kugl/kugl_jazz_flyer_finish.jpg!
+Every Tuesday finest Jazz

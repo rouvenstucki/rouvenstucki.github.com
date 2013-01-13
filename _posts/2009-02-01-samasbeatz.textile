@@ -1,0 +1,31 @@
+---
+layout: post
+title: Samasbeatz
+subtitle: New Identity and web design for samasbeatz.com
+location: marktplatz st.gallen
+categories:
+- illustration
+- layout
+- web
+- music
+- identity
+---
+
+"www.samasbeatz.com":http://samasbeatz.com/
+"samasbeatz" steht für authentische, frische und saftige Beatz auf hohem Niveau.
+
+ !../images/samasbeatz/sama_sketch_face.jpg!
+ <embed src="/images/samasbeatz/Intro.swf" width="700" height="500" />
+ !../images/samasbeatz/samas_sammlung.jpg!
+ !../images/samasbeatz/samas_artist1.jpg!
+ !../images/samasbeatz/samas_artist2.jpg!
+ !../images/samasbeatz/samas_artist3.jpg!
+ !../images/samasbeatz/samas_artist4.jpg!
+ !../images/samasbeatz/samas_artist5.jpg!
+ !../images/samasbeatz/samas_artist6.jpg!
+ !../images/samasbeatz/samas_artist7.jpg!
+ !../images/samasbeatz/samas_artist8.jpg!
+ !../images/samasbeatz/samas_artist9.jpg!
+ !../images/samasbeatz/samas_artist10.jpg!
+
+<div><embed style='display:inline;' quality='high' wmode='transparent' id='FlashDiv' FlashVars='songId=9265168&pid=-9163224543036333181' AllowScriptAccess='always' src='http://www.myspace.com/music/song-embed?songid=9265168&getSwf=true' width='400' height='77'/><p>Finde weitere Künstler wie <a target='_blank' href='/samasbeatz/music/albums/audiogangstaz-2396850?ap=1&songid=9265168'>samasbeatz</a> bei <a target='_blank' href='http://www.myspace.com/music'>Myspace Musik</a></p></div>

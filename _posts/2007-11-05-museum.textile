@@ -1,0 +1,23 @@
+---
+layout: post
+title: Völkerkundemuseum
+subtitle: Graphics for Historisches und Völkerkundemuseum St.Gallen
+location: Historisches und Völkerkundemuseum St.Gallen
+categories:
+- layout
+- print
+- plakat
+---
+
+ !../images/museum/kimu_f4_plakat_1.jpg!
+ !../images/museum/kimu_f4_plakat_2.jpg!
+ !../images/museum/kimu_f4_plakat_3.jpg!
+ !../images/museum/kimu_flyer.jpg!
+ !../images/museum/kimu_leuchte_1.jpg!
+ !../images/museum/kimu_leuchte_2.jpg!
+ !../images/museum/kimu_leuchte_3.jpg!
+ !../images/museum/jazznight_f4_plakat.jpg!
+ !../images/museum/flyer_tibet.jpg!
+ !../images/museum/gutschein_1.jpg!
+ !../images/museum/gutschein_2.jpg!
+ !../images/museum/hmsg_dezember_programm.jpg!

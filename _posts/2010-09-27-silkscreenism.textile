@@ -1,0 +1,25 @@
+---
+layout: post
+title: silkscreen
+subtitle: silkscreen printing, all hand-printed! moore daily
+location: brauerstrasse 25, st.gallen
+categories:
+- silkscreen
+- illustration
+- print
+---
+
+ !../images/decibelmeters/roughDraft_silkscreen1.jpg!
+ !../images/decibelmeters/roughDraft_silkscreen2.jpg!
+ !../images/decibelmeters/roughDraft_silkscreen3.jpg!
+ !../images/decibelmeters/roughDraft_silkscreen4.jpg!
+ !../images/silkscreenism/city_silkscreen3.jpg!
+ !../images/silkscreenism/lemon_and_jare_silkscreen2.jpg!
+ !../images/silkscreenism/lemon_and_jare_silkscreen3.jpg!
+ !../images/silkscreenism/lemon_and_jare_silkscreen1.jpg!
+ !../images/silkscreenism/show_silkscreen1.jpg!
+ !../images/silkscreenism/show_silkscreen2.jpg!
+ !../images/silkscreenism/show_silkscreen3.jpg!
+ !../images/silkscreenism/the_lemon_silkscreen2.jpg!
+ !../images/silkscreenism/the_lemon_silkscreen1.jpg!
+ !../images/silkscreenism/the_lemon_silkscreen3.jpg!

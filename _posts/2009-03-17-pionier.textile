@@ -1,0 +1,15 @@
+---
+layout: post
+title: Pionier
+subtitle: illustration for higher product placement
+client: Brüggli AG
+categories:
+- illustration
+---
+
+Für die Marktpositionierung einer Hunde-Box, im höheren Marktsegment, lancierte die Firma Brüggli AG aus Appenzell das Projekt "ein Pionier ein Leben Lang".
+ 
+ !../images/pionier/einpioniereinlebenlang.jpg! 
+ !../images/pionier/brueggli_sketch1.jpg! 
+ !../images/pionier/brueggli_sketch2.jpg! 
+

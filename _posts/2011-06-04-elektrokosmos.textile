@@ -1,0 +1,33 @@
+---
+layout: post
+title: elektrokosmos
+published: true
+subtitle: identity for a swiss analog synthesizer
+client: elektrokosmos
+location: switzerland 
+categories:
+- identity
+- web
+---
+Elektrokosmos ist a small swiss firm specialised in the production of analog synthesizers. We update the principles of the last century with today’s technology and optimize them for high expectations. Every component is diligently selected and assembled by hand – every synth is unique. Elektrokosmos stands for robust machines and convincing sound. The user-friendly layout guarantees an exceptional playing experience.
+
+"www.elektrokosmos.ch":http://www.elektrokosmos.ch/
+
+
+ !../images/elektrokosmos/kosmos_1fotos_700px.jpg!
+ !../images/elektrokosmos/kosmos_6fotos_700px.jpg!
+ !../images/elektrokosmos/kosmos_7fotos_700px.jpg!
+ !../images/elektrokosmos/kosmos_2fotos_700px.jpg!
+ !../images/elektrokosmos/kosmos_3fotos_700px.jpg!
+ !../images/elektrokosmos/kosmos_4fotos_700px.jpg!
+ !../images/elektrokosmos/kosmos_5fotos_700px.jpg!
+ !../images/elektrokosmos/kosmos_8fotos_700px.jpg!
+ !../images/elektrokosmos/kosmos_9fotos_700px.jpg!
+ !../images/elektrokosmos/kosmos_10fotos_700px.jpg!
+ !../images/elektrokosmos/elektrokosmos_sketches_700px.jpg!
+
+Content / Elektrokosmos / "www.elektrokosmos.ch":http://www.elektrokosmos.ch/
+Graphic Design / Rouven Stucki / rouvenstucki.ch
+Photos / Florian Brunner / "www.monarchie.ch":http://www.monarchie.ch/
+Project Management / Reto Wettach / "www.wetta.ch":http://www.wetta.ch/
+Website / Mario Baronchelli / "www.schattenwerk.ch":http://www.schattenwerk.ch/

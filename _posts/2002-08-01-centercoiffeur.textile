@@ -1,0 +1,18 @@
+---
+layout: post
+title: Center Coiffeur
+subtitle: Graffiti Project with Lennyjpg
+location: 47.422819,9.370902
+client: Coiffure Center
+categories:
+- graffiti
+- illustration
+---
+
+ !../images/centercoiffeur/389020189_4f44aa5461_o.jpg!
+ !../images/centercoiffeur/coiffureCenter_1.jpg!
+ !../images/centercoiffeur/coiffureCenter_2.jpg!
+ !../images/centercoiffeur/coiffureCenter_3.jpg!
+ !../images/centercoiffeur/coiffureCenter_4.jpg!
+ !../images/centercoiffeur/389017161_5da51833de_o.jpg!
+ !../images/centercoiffeur/389018978_3a4d232249_o.jpg!

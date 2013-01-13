@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<article>
+<header><h1>{%if page.title  %}{{page.title}}{% endif %}{%if page.subtitle  %}<br />{{page.subtitle}}{% endif %}</h1><h2>{{ page.date | date: "%m/%y" }}<br />{%if page.client %}{{page.client}}{% endif %}</h2></header>
+{{content}}
+<!--
+<div id="disqus_thread"></div><script>var disqus_shortname = 'rouvenstucki'; var disqus_identifier = '{{ page.url }}'; var disqus_title = '{{ page.title }}'; var disqus_url = 'http://beta.rouvenstucki.ch{{ page.url }}';var disqus_developer = 1; (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })();</script><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript></article>
+-->
+{% include footer.html %} 

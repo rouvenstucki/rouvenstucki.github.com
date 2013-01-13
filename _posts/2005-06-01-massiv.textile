@@ -1,0 +1,49 @@
+---
+layout: post
+title: Magazin Massiv
+subtitle: work for the Swiss lifestyle and fashion magazine MASSIV
+categories:
+- layout
+- print
+- type
+---
+
+work on the Releases 34 - 40, 
+
+publisher / mario romano, schreibwerkverlag gmbh
+creative director / mario romano
+art director / rouven stucki
+editorial / simone kuna, evrim kutay, luana sacchetti, rouven stucki
+
+ !../images/massiv/massiv_cover37.jpg!
+ !../images/massiv/massiv_37_s4.jpg!
+ !../images/massiv/massiv_37_s5.jpg!
+ !../images/massiv/massiv_37_s7.jpg!
+ !../images/massiv/massiv_cover34.jpg!
+ !../images/massiv/massiv_34_s1.jpg!
+ !../images/massiv/massiv_cover35.jpg!
+ !../images/massiv/massiv_35_s1.jpg!
+ !../images/massiv/massiv_35_s2.jpg!
+ !../images/massiv/massiv_cover36.jpg!
+ !../images/massiv/massiv_36_s1.jpg!
+ !../images/massiv/massiv_36_s2.jpg!
+ !../images/massiv/massiv_36_s3.jpg!
+ !../images/massiv/massiv_36_s6.jpg!
+ !../images/massiv/massiv_cover38.jpg!
+ !../images/massiv/massiv_38_s1.jpg!
+ !../images/massiv/massiv_38_s2.jpg!
+ !../images/massiv/massiv_38_s3.jpg!
+ !../images/massiv/massiv_38_s4.jpg!
+ !../images/massiv/massiv_38_s5.jpg!
+ !../images/massiv/massiv_cover39.jpg!
+ !../images/massiv/massiv_39_s1.jpg!
+ !../images/massiv/massiv_39_s2.jpg!
+ !../images/massiv/massiv_39_s3.jpg!
+ !../images/massiv/massiv_39_s4.jpg!
+ !../images/massiv/massiv_39_s5.jpg!
+ !../images/massiv/massiv_cover40.jpg!
+ !../images/massiv/massiv_40_s1.jpg!
+ !../images/massiv/massiv_40_s2.jpg!
+ !../images/massiv/massiv_40_s3.jpg!
+ !../images/massiv/massiv_40_s4.jpg!
+ !../images/massiv/massiv_40_s5.jpg!

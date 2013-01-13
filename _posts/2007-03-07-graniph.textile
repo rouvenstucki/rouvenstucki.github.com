@@ -1,0 +1,19 @@
+---
+layout: post
+title: Graniph Award 07
+subtitle: 3th place at the graniph design 
+client: Graniph
+location: st.gallen 
+categories:
+- t-shirt
+- illustration
+---
+
+3th place at the graniph design award 07, from 15`000 artists,
+10 artists at the second place and 74 won the third place.
+in switzerland are now: 10 of the 37lemon "spreadlove" shirts!
+
+ !../images/graniph/graniph_1.jpg!
+ !../images/graniph/graniph_2.jpg!
+ !../images/graniph/graniph_3.jpg!
+ !../images/graniph/graniph_4.jpg!

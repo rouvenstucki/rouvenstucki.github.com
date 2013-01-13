@@ -1,0 +1,20 @@
+---
+layout: post
+title: Shirt graphics
+subtitle: Technics Silkscreen and Flex
+client: 37Lemon
+categories:
+- illustration
+- t-shirt
+- silkscreen
+---
+
+ !../images/shirts/t-shirt10.jpg!
+ !../images/shirts/t-shirt1.jpg!
+ !../images/shirts/t-shirt3.jpg!
+ !../images/shirts/t-shirt2.jpg!
+ !../images/shirts/t-shirt9.jpg!
+ !../images/shirts/t-shirt4.jpg!
+ !../images/shirts/t-shirt8.jpg!
+ !../images/shirts/t-shirt7.jpg!
+ !../images/shirts/t-shirt11.jpg!

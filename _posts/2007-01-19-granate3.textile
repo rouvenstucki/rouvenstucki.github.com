@@ -1,0 +1,38 @@
+---
+layout: post
+title: Die Granate 3
+subtitle: Identity for «Die Granate» electro Party series
+client: Freshcuts Recordings
+location: kugl st.gallen
+categories:
+- flyer
+- illustration
+- print
+- plakat
+- logo
+---
+
+In Collaboration with Carhartt & Freshcuts Recordings
+Finest Breakbeat, Drum'n'Bass und Elektro Party
+Since 19.01.2007 – 12.06.2009
+
+ !../images/granate3/granate21_flyer.jpg!
+ !../images/granate3/GRANATE_PLAKAT21.jpg!
+ !../images/granate3/granate31_flyer.jpg!
+ !../images/granate3/GRANATE_PLAKAT30.jpg!
+ !../images/granate3/granate30_flyer.jpg!
+ !../images/granate3/granate29_PLAKAT.jpg!
+ !../images/granate3/flyer29_flyer.jpg!
+ !../images/granate3/granate28.jpg!
+ !../images/granate3/granate27_PLAKAT.jpg!
+ !../images/granate3/granate27_flyer.jpg!
+ !../images/granate3/GRANATE_PLAKAT25.jpg!
+ !../images/granate3/granate25_flyer.jpg!
+ !../images/granate3/GRANATE_PLAKAT24.jpg!
+ !../images/granate3/granate24_flyer.jpg!
+ !../images/granate3/GRANATE_PLAKAT23.jpg!
+ !../images/granate3/granate23_flyer_front.jpg!
+ !../images/granate3/granate23_flyer_back.jpg!
+ !../images/granate3/GRANATE_PLAKAT22.jpg!
+ !../images/granate3/granate22_flyer.jpg!
+

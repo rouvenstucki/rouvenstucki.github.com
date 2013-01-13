@@ -1,0 +1,17 @@
+---
+layout: post
+title: Klangforscher
+subtitle: Unique Flyer and poster with red ink.
+categories:
+- illustration
+- music
+- plakat
+- type
+---
+
+ !../images/klangforscher/klangforscher_black.jpg!
+ !../images/klangforscher/klangforscher_plakat.jpg!
+ !../images/klangforscher/klangforscher_plakat_part1.jpg!
+ !../images/klangforscher/klangforscher_plakat_part2.jpg!
+
+"Klangforscher on myspace":http://www.myspace.com/klangforscherch

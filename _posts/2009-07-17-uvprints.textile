@@ -1,0 +1,25 @@
+---
+layout: post
+title: UV Prints
+subtitle: Printed with the Océ Arizona GT
+location: schwertgasse st.gallen
+categories:
+- illustration
+- print
+---
+
+UV-print on wood printed by printlounge.ch
+
+ !../images/uvprints/visual_individual_wood.jpg!
+ !../images/uvprints/back2theclassic_wood.jpg!
+ !../images/uvprints/city_on_wood.jpg!
+ !../images/uvprints/menschenkind_on_wood.jpg!
+ !../images/uvprints/b2tc_wood1.jpg!
+ !../images/uvprints/b2tc_wood2.jpg!
+ !../images/uvprints/menschenkind_wood2.jpg!
+ !../images/uvprints/menschenkind_wood3.jpg!
+ !../images/uvprints/city_wood2.jpg!
+ !../images/uvprints/city_wood3.jpg!
+ !../images/uvprints/city_wood4.jpg!
+ !../images/uvprints/lady_pinonier_wood.jpg!
+ !../images/uvprints/bird_mirror.jpg!

@@ -1,0 +1,35 @@
+---
+layout: post
+title: Die Granate 2
+subtitle: Identity for «Die Granate» electro Party series
+location: kugl st.gallen
+categories:
+- flyer
+- illustration
+- print
+- plakat
+- logo
+---
+
+In Collaboration with Carhartt & Freshcuts Recordings
+Finest Breakbeat, Drum'n'Bass und Elektro Party
+Since 19.01.2007 – 12.06.2009
+
+
+ !../images/granate2/granate11_flyer.jpg!
+ !../images/granate2/GRANATE_PLAKAT11.jpg!
+ !../images/granate2/GRANATE_PLAKAT19.jpg!
+ !../images/granate2/granate19_flyer.jpg!
+ !../images/granate2/GRANATE_PLAKAT18.jpg!
+ !../images/granate2/granate18_flyer.jpg!
+ !../images/granate2/granate17_flyer.jpg!
+ !../images/granate2/granate16_flyer.jpg!
+ !../images/granate2/granate15_flyer_front.jpg!
+ !../images/granate2/granate15_flyer_back.jpg!
+ !../images/granate2/GRANATE_PLAKAT14.jpg!
+ !../images/granate2/granate14_flyer.jpg!
+ !../images/granate2/GRANATE_PLAKAT13.jpg!
+ !../images/granate2/granate13_flyer.jpg!
+ !../images/granate2/GRANATE_PLAKAT12.jpg!
+ !../images/granate2/granate12_flyer.jpg!
+

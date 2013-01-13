@@ -1,0 +1,15 @@
+---
+layout: post
+title: Back 2 the Classic
+subtitle: Illustration Cover Art work
+client: DJ E.S.I.K
+categories:
+- illustration
+- layout
+- music
+---
+
+ !../images/back2classic/back2theclassic_1.jpg!
+ !../images/back2classic/B2TC2_PLAKAT.jpg!
+ !../images/back2classic/back2theclassic_2.jpg!
+ 

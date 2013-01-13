@@ -1,0 +1,19 @@
+---
+layout: post
+title: Grabenhalle
+subtitle: Grafitti for Party Location «Grabenhalle» St.Gallen
+location: grabenhalle st.gallen
+client: Grabenhalle St.Gallen
+categories:
+- graffiti
+- illustration
+---
+
+ !../images/grabenhalle/395419377_ba7629efef_o.jpg!
+ !../images/grabenhalle/grabenhalle_6.jpg!
+ !../images/grabenhalle/grabenhalle_5.jpg!
+ !../images/grabenhalle/grabenhalle_1.jpg!
+ !../images/grabenhalle/grabenhalle_2.jpg!
+ !../images/grabenhalle/grabenhalle_3.jpg!
+ !../images/grabenhalle/grabenhalle_4.jpg!
+ !../images/grabenhalle/390144514_54c4a9ec8f_o.jpg!

@@ -1,0 +1,16 @@
+---
+layout: post
+title: Freshcuts
+subtitle: Flyer Design 5 Years Freshcuts Recording
+location: kirchgasse st.gallen
+categories:
+- music
+- print
+---
+
+"www.freshcuts.ch":http://www.freshcuts.ch/
+
+ !../images/freshcutsism/freshcuts_5jahre.jpg!
+ !../images/freshcutsism/freshcuts_visitenkarte.jpg!
+ !../images/freshcutsism/freshcuts_karte_front.jpg!
+ !../images/freshcutsism/freshcuts_karte_back.jpg!

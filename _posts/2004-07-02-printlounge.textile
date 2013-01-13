@@ -1,0 +1,14 @@
+---
+layout: post
+title: Printlounge
+subtitle: Work at Printlounge GmbH St.Gallen
+client: All types of Clients
+location: schwertgasse st.gallen
+categories:
+- illustration
+- print
+---
+
+ !../images/printlounge/printlounge_leuchte.jpg!
+ !../images/printlounge/printlounge_pinkrider.jpg!
+

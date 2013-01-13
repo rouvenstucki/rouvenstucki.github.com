@@ -1,0 +1,24 @@
+---
+layout: post
+title: OneForYou
+subtitle: Type Design 
+client: Hood
+location: sankt gallen
+categories:
+- logo
+- type
+- music
+- identity
+---
+
+Flip one for you
+
+ !../images/oneforyou/flip_one_for_you1.jpg!
+ !../images/oneforyou/flip_one_for_you2.jpg!
+ !../images/oneforyou/flip_one_for_you3.jpg!
+ !../images/oneforyou/flipOne4You_bw_lines1.jpg!
+ !../images/oneforyou/flipOne4You_bw_lines2.jpg!
+
+
+
+

@@ -1,0 +1,64 @@
+---
+layout: post
+title: Das Menschenkind
+subtitle: Cover artwork for "Das Menschenkind"
+client: Das Menschenkind
+location: st.gallen
+categories:
+- illustration
+- t-shirt
+- silkscreen
+- print
+- music
+- Plakat
+- t-shirt
+---
+
+Mit 9 Jahren schrieb Lukas Schiltknecht alias "das Menschenkind" den ersten Rap-Text inspiriert durch seine Schwester. Anfangs hat er sich noch sehr an Vorbildern orientiert wie RHP oder Fanta Vier. Erst mit der Zeit entwickelte er seinen eigenen Stil. Von Samas auf die Idee gebracht folgten später auch Mundart-Texte, welche er an Open Mic Sessions und natürlich an Konzerten performte. Mit der Gruppe "37Ronin" konnte er sein Können in Sachen Technik und Bühnenpräsenz entscheidend verbessern. Zur Zeit tritt er mit "Samas" und "Taugenichts" an verschiedenen Anlässen unter dem Namen "das Menschenkind" auf. Die Beatz sind hart und teilweise sehr elektronisch und seine Texte sind ein Fenster zu seiner Welt.
+
+ !../images/menschenkind/IMG_2881-1-700x.jpg!
+ !../images/menschenkind/IMG_2820-1-700x.jpg!
+ !../images/menschenkind/IMG_2456-1-700x.jpg!
+ !../images/menschenkind/IMG_2955-1-700x.jpg!
+ !../images/menschenkind/IMG_2842-1-700x.jpg!
+ !../images/menschenkind/IMG_2784-1-700x.jpg!
+Photography by Jan Dusek
+
+ !../images/menschenkind/konsequenz_das_menschenkind.jpg!
+ !../images/menschenkind/dasMenschenkind_cd.jpg!
+ !../images/menschenkind/dasMenschenkind_cd2.jpg!
+
+ !../images/menschenkind/konsequenz_shirt1.jpg!
+ !../images/menschenkind/konsequenz_shir3.jpg!
+ !../images/menschenkind/konsequenz_shirt4.jpg!
+ !../images/menschenkind/konsequenz_shirt7.jpg!
+ !../images/menschenkind/konsequenz_shirt8.jpg!
+ !../images/menschenkind/konsequenz_shirt12.jpg!
+ !../images/menschenkind/konsequenz_shirt13.jpg!
+
+ !../images/menschenkind/mk_plakat_atelier_1_700.jpg!
+ !../images/menschenkind/mk_plakat_atelier_2_700.jpg!
+ !../images/menschenkind/mk_plakat_part1_700.jpg!
+ !../images/menschenkind/mk_plakat_atelier_3_700.jpg!
+
+
+<video controls="true" width="700" height="440" poster="/images/menschenkind/video/1/menschenkind_siebdruck.jpg" autobuffer>
+<source src="/images/menschenkind/video/1/menschenkind_siebdruck.m4v" type="video/mp4">
+<source src="/images/menschenkind/video/1/menschenkind_siebdruck.ogv" type="video/ogg">
+<source src="/images/menschenkind/video/1/menschenkind_siebdruck.webm" type="video/webm">
+</video>
+<video controls="true" width="343" height="620" poster="/images/menschenkind/video/3/menschenkind_siebdruck_3.jpg" autobuffer>
+<source src="/images/menschenkind/video/3/menschenkind_siebdruck_3.m4v" type="video/mp4">
+<source src="/images/menschenkind/video/3/menschenkind_siebdruck_3.ogv" type="video/ogg">
+<source src="/images/menschenkind/video/3/menschenkind_siebdruck_3.webm" type="video/webm">
+</video>
+<video controls="true" width="343" height="620" poster="/images/menschenkind/video/2/menschenkind_siebdruck_2.jpg" autobuffer>
+<source src="/images/menschenkind/video/2/menschenkind_siebdruck_2.mp4" type="video/mp4">
+<source src="/images/menschenkind/video/2/menschenkind_siebdruck_2.ogv" type="video/ogg">
+<source src="/images/menschenkind/video/2/menschenkind_siebdruck_2.webm" type="video/webm">
+</video>
+
+Die Shirts und A2 Plakate wurden im Siebdruck-Verfahren,
+in einer kleinen Auflage, von Hand produziert.
+
+
