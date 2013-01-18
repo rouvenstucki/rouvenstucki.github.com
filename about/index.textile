@@ -1,7 +1,0 @@
----
-layout: about
----
-
-graphic designer / illustrator
-St.Gallen, Switzerland. 
-"info@rouvenstucki.ch":mailto:info@rouvenstucki.ch
