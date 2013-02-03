@@ -2,7 +2,9 @@
 layout: default
 ---
 <article>
-<header><h1>{%if page.title  %}{{page.title}}{% endif %}{%if page.subtitle  %}<br />{{page.subtitle}}{% endif %}</h1><h2>{{ page.date | date: "%m / %y" }}<br />{%if page.client %}{{page.client}}{% endif %}</h2></header>
+<header>
+  <h1>{%if page.title  %}{{page.title}}{% endif %}{%if page.subtitle  %}<br />{{page.subtitle}}{% endif %}</h1><h2>{{ page.date | date: "%m / %y" }}<br />{%if page.client %}{{page.client}}{% endif %}</h2>
+</header>
 {{content}}
 </article>
 {% include footer.html %}

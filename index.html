@@ -2,3 +2,5 @@
 layout: default
 ---
 <ul id="grid">{% for post in site.posts %}<li><a href="{{ post.url }}/" title="{{ post.title }}" {% if post.title ==  page.title %} class="selected" {% endif %}><img src="/images{{ post.url }}/preview.jpg" width="100" height="100" alt="{{ post.title }}"></a></li>{% endfor %}</ul>
+<script src="js/jquery.min.js"></script>
+<script> function flipflop(img){ var thumb=img.attr("src"), parts=thumb.split('preview'), newnumber=2+Math.floor(Math.random() * 8.0), newthumb=parts[0]+"preview_"+newnumber+".jpg"; img.attr("src",newthumb); } $("#grid img").hover(function() { flipflop($(this)); }); </script>
