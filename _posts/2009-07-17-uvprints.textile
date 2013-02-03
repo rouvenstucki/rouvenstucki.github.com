@@ -11,7 +11,7 @@ categories:
 UV-print on wood printed by printlounge.ch
 
  !../images/uvprints/visual_individual_wood.jpg!
- !../images/uvprints/back2theclassic_wood.jpg!
+ !../images/backtotheclassic/back2theclassic_wood.jpg!
  !../images/uvprints/city_on_wood.jpg!
  !../images/uvprints/menschenkind_on_wood.jpg!
  !../images/uvprints/b2tc_wood1.jpg!

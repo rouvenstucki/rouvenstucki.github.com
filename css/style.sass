@@ -4,7 +4,6 @@
 @import compass/layout/grid-background
 @import h5bp
 
-
 $holynumber: 37px
 $color: #373737
 $rand: ($holynumber/2)
@@ -15,12 +14,12 @@ $width: $spalte*2+$rand*2
 $bold: 800
 
 =headline
-  letter-spacing: 1px
   line-height: 1.5
-  font-size: 10px!important
+  font-size: 11px
 
 =block
-  width: $spalte
+  width: 100%
+  max-width: $spalte
   float: left
   padding: 10px 0px 50px 0px
   margin: 0px
@@ -28,10 +27,11 @@ $bold: 800
 body
   +headline
   font-family: helvetica, sans-serif
-  padding: $rand*5 $rand $rand*10 $rand
-  margin: 0px
-  max-width: $width
-  width: 100%
+  font-size: 13px
+  padding: 0
+  margin: 0
+  max-width: 100%
+  width: $width
   overflow-x: hidden
   line-height: 1.5
   color: $color
@@ -46,9 +46,11 @@ header
   font-weight: $bold
   display: block
   clear: both
-  padding: 0px 0px 0px 0px
+  padding: $rand
   margin: 0px
   overflow: hidden
+  p
+    width: auto
   a
     +block
     +headline
@@ -56,21 +58,11 @@ header
     color: $related!important
     cursor: pointer
     outline: none
-    &:hover
-      background: $selected
   h1
     +headline
     color: $related
     padding: 0px
     margin: 0px
-
-img
-  outline: none
-  border: none
-  max-width: 100%
-  display: block
-  margin: 2px 0px 2px 0px
-  padding: 0px
 
 
 #grid
@@ -96,7 +88,7 @@ footer
   display: block
   height: $rand*10
   width: auto
-  padding: $rand 0
+  padding: $rand
   a
     text-decoration: none
     width: 100%
@@ -109,32 +101,33 @@ nav
   text-transform: uppercase
   font-weight: $bold
   margin: 0
-  display: block
+  display: inline-block
   clear: both
-  padding: 0px 0px $rand*5 0px
+  padding: 0px $rand 0 $rand
   p
+    +block
     display: inline
+    width: auto
+    line-height: 1.9
   .label
     font-weight: $bold
     color: $related!important
-    padding-left: 4px
+    padding-right: 6px
   a
     outline: none
     cursor: pointer
     white-space: nowrap
     padding: 3px 4px 2px 5px
     color: #CCC
-    margin: 0px
+    margin: 0px 0px 0px -4px
     &:hover
       color: #FFF
       background: $related
     &:after
-      content: '↗'
+      content: ' ↗'
   ul
     +block
-    float: left
     list-style: none
-    padding: 0px
     margin: 0px
 
   li
@@ -159,27 +152,28 @@ video
   margin: 0
   padding: 0
   border: none
+  max-width: 100%
 
 article
-  padding: 0px 0px 100px 0px
+  padding: $rand 0 $rand 0
   margin: 0px
   display: block
   clear: both
   header
     display: block
     clear: both
-    padding: 0px
+    padding: 0 $rand
     margin: 0px
   h1, h2
     +headline
     +block
   p
-    padding: 10px 0px
-    line-height: 1.8
+    padding: $rand
     text-transform: none
   img
-    padding: 2px 0px 0px 0px
-    @media( max-width: 600px )
-      padding: 0px!important
-      margin: 0px!important
-  
+    max-width: 100%
+    padding: 2px $rand 0px $rand
+    @media only screen and (max-width: 767px)
+      padding: 0
+      margin: 0
+
