@@ -3,18 +3,16 @@
 @import compass/typography/text/ellipsis
 @import compass/layout/grid-background
 @import h5bp
-@include h5bp-display
-@include h5bp-base
-@include h5bp-links
-@include h5bp-typography
-@include h5bp-lists
-@include h5bp-helpers
-@include h5bp-media
 
 
+$holynumber: 37px
+$color: #373737
+$rand: ($holynumber/2)
 $selected: #FFFF00
-$related: #333333
+$related: $color
 $spalte: 350px
+$width: $spalte*2+$rand*2
+$bold: 800
 
 =headline
   letter-spacing: 1px
@@ -24,29 +22,28 @@ $spalte: 350px
 =block
   width: $spalte
   float: left
-  padding: 10px 0px 50px 10px
+  padding: 10px 0px 50px 0px
   margin: 0px
 
 body
   +headline
-  font-family: sans-serif
-  padding: 0px
+  font-family: helvetica, sans-serif
+  padding: $rand*5 $rand $rand*10 $rand
   margin: 0px
-  max-width: 720px
+  max-width: $width
   width: 100%
-  min-height: 100%
-  position: absolute
-  left: 0px
-  top: 0px
-  background: #FFF
-  padding-bottom: 100px
-a
-  color: #333
+  overflow-x: hidden
+  line-height: 1.5
+  color: $color
+p,a
+  color: $color
+  text-decoration: none
+  outline: none
 
 header
   +headline
   text-transform: uppercase
-  font-weight: 800
+  font-weight: $bold
   display: block
   clear: both
   padding: 0px 0px 0px 0px
@@ -68,66 +65,60 @@ header
     margin: 0px
 
 img
-  display: block
-  border: none
   outline: none
+  border: none
+  max-width: 100%
+  display: block
   margin: 2px 0px 2px 0px
   padding: 0px
-  max-width: 100%
-  
+
 
 #grid
   display: block
-  clear: both 
-  padding: 10px
+  clear: both
+  padding: $rand*5 0px
   margin: 0px
   list-style: none
   li
     float: left
     width: 100px
     height: 100px
-    background: #333
     padding: 0px
     margin: 0px
-    img
-      border: none
-      padding: 0px
-      margin: 0px
+  img
+    margin: 0px
+
 footer
   +headline
-  font-weight: 800
+  font-weight: $bold
   text-transform: uppercase
   clear: both
   display: block
-  height: 100px
+  height: $rand*10
   width: auto
-  padding: 10px
-  position: relative
-  overflow: hidden
+  padding: $rand 0
   a
     text-decoration: none
     width: 100%
     height: 100%
-    position: absolute
-    padding: 10px
     &:hover
       background: $selected
-    
+
 nav
   +headline
   text-transform: uppercase
-  font-weight: 800
-  clear: both
+  font-weight: $bold
+  margin: 0
   display: block
-  margin: 0px
-  position: relative
-  left: -2px
+  clear: both
+  padding: 0px 0px $rand*5 0px
+  p
+    display: inline
   .label
-    font-weight: 800
+    font-weight: $bold
     color: $related!important
     padding-left: 4px
   a
-    text-decoration: none
     outline: none
     cursor: pointer
     white-space: nowrap
@@ -137,29 +128,36 @@ nav
     &:hover
       color: #FFF
       background: $related
+    &:after
+      content: '↗'
   ul
     +block
+    float: left
     list-style: none
-    
+    padding: 0px
+    margin: 0px
+
   li
     margin: 0px
     padding: 2px 2px 2px 0px
     float: left
+
   .selected
     background: $related
     color: #FFF
+
   .related
     background: $selected
     color: $related
 
-.slideshow
-  display: block
-  padding: 0px
-  margin: 0px
-  height: 500px
+
+
+
+
+
 video
-  margin: 0px
-  padding: 0px 0px 0px 10px
+  margin: 0
+  padding: 0
   border: none
 
 article
@@ -168,23 +166,19 @@ article
   display: block
   clear: both
   header
-    color: #333
     display: block
     clear: both
-    height: 80px
     padding: 0px
     margin: 0px
   h1, h2
     +headline
     +block
   p
-    padding: 2px 10px 0px 10px
+    padding: 10px 0px
+    line-height: 1.8
     text-transform: none
-    color: #333
   img
-    padding: 2px 10px 0px 10px
-    margin: 0px
-    border: none
+    padding: 2px 0px 0px 0px
     @media( max-width: 600px )
       padding: 0px!important
       margin: 0px!important

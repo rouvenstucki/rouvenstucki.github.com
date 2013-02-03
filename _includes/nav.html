@@ -1,15 +1,4 @@
-<nav>
-
-<ul>
-<li class="label">Work</li>
-{% for post in site.posts %}
-<li>
-<a {% if post.title ==  page.title %} href="/" title="{{ post.date | date: "%m/%y" }}" class="selected" {% else %}href="{{ post.url }}/" title="{{ post.date | date: "%m/%y" }} {{ post.title }}" {% endif %}{% for p in site.categories[page.category] %}{% if p.title ==  post.title %} class="related" {% endif %}{% endfor %}>{{ post.title }}&#8599;</a></li>
-{% endfor %}
-</ul>
-<ul>
-<li>graphic designer / illustrator<br />
-St.Gallen, Switzerland<br /><br /><a href="mailto:info@rouvenstucki.ch">info@rouvenstucki.ch</a>
-</li>
-</ul>
+<nav><ul><li class="label">Work</li>{% for post in site.posts %}<li>
+<a {% if post.title ==  page.title %} href="/" title="{{ post.date | date: "%m/%y" }}" class="selected" {% else %}href="{{ post.url }}/" title="{{ post.date | date: "%m/%y" }} {{ post.title }}" {% endif %}{% for p in site.categories[page.category] %}{% if p.title ==  post.title %} class="related" {% endif %}{% endfor %}>{{ post.title }}</a></li>
+{% endfor %}</ul><p>graphic designer / illustrator<br />St.Gallen, Switzerland<br /><br /><a href="mailto:info@rouvenstucki.ch">info@rouvenstucki.ch</a></p>
 </nav>
