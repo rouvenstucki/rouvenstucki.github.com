@@ -41,23 +41,6 @@ Photography by Jan Dusek
  !../images/menschenkind/mk_plakat_part1_700.jpg!
  !../images/menschenkind/mk_plakat_atelier_3_700.jpg!
 
-
-<video controls="true" width="700" height="440" poster="/images/menschenkind/video/1/menschenkind_siebdruck.jpg" autobuffer>
-<source src="/images/menschenkind/video/1/menschenkind_siebdruck.m4v" type="video/mp4">
-<source src="/images/menschenkind/video/1/menschenkind_siebdruck.ogv" type="video/ogg">
-<source src="/images/menschenkind/video/1/menschenkind_siebdruck.webm" type="video/webm">
-</video>
-<video controls="true" width="343" height="620" poster="/images/menschenkind/video/3/menschenkind_siebdruck_3.jpg" autobuffer>
-<source src="/images/menschenkind/video/3/menschenkind_siebdruck_3.m4v" type="video/mp4">
-<source src="/images/menschenkind/video/3/menschenkind_siebdruck_3.ogv" type="video/ogg">
-<source src="/images/menschenkind/video/3/menschenkind_siebdruck_3.webm" type="video/webm">
-</video>
-<video controls="true" width="343" height="620" poster="/images/menschenkind/video/2/menschenkind_siebdruck_2.jpg" autobuffer>
-<source src="/images/menschenkind/video/2/menschenkind_siebdruck_2.mp4" type="video/mp4">
-<source src="/images/menschenkind/video/2/menschenkind_siebdruck_2.ogv" type="video/ogg">
-<source src="/images/menschenkind/video/2/menschenkind_siebdruck_2.webm" type="video/webm">
-</video>
-
 Die Shirts und A2 Plakate wurden im Siebdruck-Verfahren,
 in einer kleinen Auflage, von Hand produziert.
 
